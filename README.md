@@ -2,6 +2,8 @@
 
 ## CURL Requests
 
+> The Cookbook postman collection present in the code named as - **Cookbook.postman_collection.json**
+
 ### # Get all recipes
 
 ```curl
