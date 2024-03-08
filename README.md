@@ -51,4 +51,4 @@ curl --location --request DELETE 'http://localhost:3000/recipes/?id=65bfbce2ceb8
 
 ### YouTube Video:
 
-[![](https://img.youtube.com/vi/Thu-q57cNkA.jpg)](https://youtu.be/Thu-q57cNkA)
+[![](https://img.youtube.com/vi/Thu-q57cNkA/0.jpg)](https://youtu.be/Thu-q57cNkA)
